@@ -5,50 +5,66 @@
 
 ---
 
-<!-- filepath: d:\code\github_repositories\FormulaEdge-Macau-2024\README.md -->
+**Team name: TENITH RACING**
+
 <table>
   <tr>
-    <td><img src="assets/raceday_images/race_result.avif" width="700"></td>
-    <td><img src="assets/raceday_images/IMG_5801.jpg" width="500"></td>
+    <td width="65%" align="center"><img src="assets/raceday_images/race_result.avif" alt="Formula Edge Macau 2024 race results" width="600"><br>Race results</td>
+    <td width="35%" align="center"><img src="assets/raceday_images/IMG_5842.jpg" alt="Formula Edge Macau 2024 trophy" width="300"><br>Our trophy</td>
   </tr>
 </table>
-Team name: TENITH RACING
 
 ---
 
 ## Image Gallery
 
-### Photos
+### Team & Highlights
 
 <table>
   <tr>
-    <td><img src="assets/raceday_images/IMG_5842.jpg" width="400"></td>
-    <td><img src="assets/raceday_images/IMG_5831.jpg" width="400"></td>
+    <td width="50%" align="center"><img src="assets/raceday_images/Group%20photo.jpg" alt="Team group photo at Formula Edge Macau 2024" width="450"><br>Team photo</td>
+    <td width="50%" align="center"><img src="assets/raceday_images/All%20ingredients.jpg" alt="JetRacer, trophy, medals and controller" width="450"><br>Our car, awards &amp; controller</td>
   </tr>
 </table>
+
+### Car & Circuit
 
 <table>
   <tr>
-    <td><img src="assets/raceday_images/IMG_5815.jpg" width="400"></td>
-    <td><img src="assets/raceday_images/IMG_5816.jpg" width="400"></td>
+    <td width="50%" align="center"><img src="assets/raceday_images/IMG_5803.jpg" alt="Our blue JetRacer in front of the competition backdrop" width="450"><br>Race-ready JetRacer</td>
+    <td width="50%" align="center"><img src="assets/raceday_images/IMG_5829.jpg" alt="Indoor circuit at Formula Edge Macau 2024" width="450"><br>The race circuit</td>
   </tr>
 </table>
+
+### Hardware & Race Entry
 
 <table>
   <tr>
-    <td><img src="assets/raceday_images/IMG_5803.jpg"></td>
-    <td><img src="assets/raceday_images/IMG_5832.jpg"></td>
+    <td width="50%" align="center"><img src="assets/raceday_images/IMG_5831.jpg" alt="JetRacer chassis and onboard hardware beside the controller" width="450"><br>Chassis &amp; onboard hardware</td>
+    <td width="50%" align="center"><img src="assets/raceday_images/IMG_5801.jpg" alt="TENITH RACING competition entry badge beside the car" width="450"><br>TENITH RACING race entry</td>
   </tr>
 </table>
 
-### GIFs
+### Medals
 
-<img src="assets/raceday_images/video1.gif" width="900">
+<table>
+  <tr>
+    <td width="50%" align="center"><img src="assets/raceday_images/IMG_5815.jpg" alt="Front of the Formula Edge Macau 2024 medal" width="450"><br>Medal — front</td>
+    <td width="50%" align="center"><img src="assets/raceday_images/IMG_5816.jpg" alt="Reverse of the Formula Edge Macau 2024 medal" width="450"><br>Medal — reverse</td>
+  </tr>
+</table>
 
-Qualificatin trials
+### Race Videos
 
-<img src="assets/raceday_images/video2.gif" width="900">
-A major mistake in the first round of the final (run out of the track)
+**Qualification trials**
+
+<img src="assets/raceday_images/video1.gif" alt="JetRacer qualification trials" width="900">
+
+**Final — first round**
+
+A major mistake in the first round of the final: running off the track.
+
+<img src="assets/raceday_images/video2.gif" alt="JetRacer running off the track in the first round of the final" width="900">
 
 
 ## Badges
